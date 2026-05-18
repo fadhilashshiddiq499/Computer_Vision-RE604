@@ -3,8 +3,8 @@ myenv/
 
 # Dataset and large binary files
 *.csv
-*.idx3-ubyte
-*.idx1-ubyte
+*idx3-ubyte
+*idx1-ubyte
 *.npz
 *.npy
 *.zip
