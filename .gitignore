@@ -1,0 +1,30 @@
+# Python virtual environment
+myenv/
+
+# Dataset and large binary files
+*.csv
+*.idx3-ubyte
+*.idx1-ubyte
+*.npz
+*.npy
+*.zip
+*.rar
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+
+# Built artifacts
+*.exe
+*.dll
+*.pyd
+*.so
+*.obj
+*.o
+
+# OS files
+.DS_Store
+Thumbs.db
