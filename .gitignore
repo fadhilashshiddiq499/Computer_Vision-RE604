@@ -3,6 +3,7 @@ myenv/
 
 # Dataset and large binary files
 *.csv
+!emnist-balanced-train.csv
 *idx3-ubyte
 *idx1-ubyte
 *.npz
